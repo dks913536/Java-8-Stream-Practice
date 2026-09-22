@@ -1,4 +1,4 @@
-package com.java8.set01_basics;
+package com.java.top100.set01_basics;
 
 /**
  *  Problem 04: Convert all strings to uppercase.

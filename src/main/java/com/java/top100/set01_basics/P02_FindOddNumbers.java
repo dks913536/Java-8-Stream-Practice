@@ -1,4 +1,4 @@
-package com.java8.set01_basics;
+package com.java.top100.set01_basics;
 
 import java.util.Arrays;
 import java.util.List;
