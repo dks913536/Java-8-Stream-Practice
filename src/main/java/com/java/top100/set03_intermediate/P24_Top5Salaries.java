@@ -28,7 +28,7 @@ public class P24_Top5Salaries {
                 .limit(5)
                 .collect(Collectors.toList());
         System.out.println(top5Salaries1);
-        
+
         // =====================================
         // Approach 2: distinct() + sorted() + limit()
         // =====================================
