@@ -1,4 +1,4 @@
-package com.java.top100.set07_emp_stream_api.empdata;
+package com.java.top100.set07_emp_stream_api;
 
 public class Employee {
     private int id;
